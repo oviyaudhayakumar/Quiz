@@ -5,7 +5,7 @@ const questions = [
         optionB: "",
         optionC: "",
         optionD: "",
-        correctOption: ""
+        correctOption: " optionA"
     },
 
     {
