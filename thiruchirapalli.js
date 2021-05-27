@@ -19,10 +19,10 @@ const questions = [
 
     {
         question: " Constructed in the Dravidian Architecture, the temple occupies an area of 63 ha with 81 shrines, 21 towers, 39 pavilions and many water tanks integrated into the complex making it the world’s largest functioning Hindu temple. ",
-        optionA: " ",
-        optionB: " ",
-        optionC: " ",
-        optionD: " ",
+        optionA: "81,21,38",
+        optionB: "71,22,39 ",
+        optionC: "80,11,49 ",
+        optionD: "81,21,39",
         correctOption: "optionD"
     },
 
