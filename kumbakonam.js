@@ -1,91 +1,91 @@
 const questions = [
     {
-        question: "The tallest is the eastern tower, with 11 stories and a height of 128 feet (39 m) ",
-        optionA: "Kasi  Viswanathar Temple ",
-        optionB: "Adi Kumbeswarar Temple ",
-        optionC: " Ramaswamy temple ",
-        optionD: " Chakrapani temple ",
+        question: "The tallest is the eastern tower, with 11 stories and a height of 128 feet (39 m)",
+        optionA: "Kasi  Viswanathar Temple",
+        optionB: "Adi Kumbeswarar Temple",
+        optionC: "Ramaswamy temple",
+        optionD: "Chakrapani temple",
         correctOption: "optionB"
     },
 
     {
-        question :"The tallest is the western tower, with seven stories and a height of 72 feet (22 m). ",
-        optionA: " Kasi  Viswanathar Temple",
-        optionB: " Adi Kumbeswarar Temple ",
-        optionC: " Ramaswamy temple",
-        optionD: " Chakrapani temple ",
+        question :"The tallest is the western tower, with seven stories and a height of 72 feet (22 m).",
+        optionA: "Kasi  Viswanathar Temple",
+        optionB: "Adi Kumbeswarar Temple",
+        optionC: "Ramaswamy temple",
+        optionD: "Chakrapani temple",
         correctOption: "optionA"
     },
 
     {
-        question: " The town is bounded by two rivers, the __ River to the north and ___ River to the south. ",
-        optionA: " Kaveri , Arasalar ",
-        optionB: " Kaveri , Ganga  ",
-        optionC: " Ganga , Bharmaputira ",
-        optionD: " All the above ",
+        question: "The town is bounded by two rivers, the __ River to the north and ___ River to the south.",
+        optionA: "Kaveri , Arasalar",
+        optionB: "Kaveri , Ganga",
+        optionC: "Ganga , Bharmaputira",
+        optionD: "All the above",
         correctOption: "optionA"
     },
 
     {
-        question: " The temple complex covers __ acres and is located close to the Mahamaham tank. ",
-        optionA: " 6 ",
-        optionB: " 4 ",
-        optionC: " 2 ",
-        optionD: " 3 ",
-        correctOption: "option C"
+        question: "The temple complex covers __ acres and is located close to the Mahamaham tank.",
+        optionA: "6",
+        optionB: "4",
+        optionC: "2",
+        optionD: "3",
+        correctOption: "optionC"
     },
 
     {
-        question: " The tank is surrounded by sixteen small Mandapams (shrines) and has 21 wells inside the tank. ",
-        optionA: " All the below ",
-        optionB: " Maham tank ",
-        optionC: " Maha tank ",
-        optionD: " Mahamaham tank ",
+        question: "The tank is surrounded by sixteen small Mandapams (shrines) and has 21 wells inside the tank.",
+        optionA: "All the below ",
+        optionB: "Maham tank ",
+        optionC: "Maha tank ",
+        optionD: "Mahamaham tank ",
         correctOption: "optionD"
     },
 
     {
-        question: " The tank is located in the heart of Kumbakonam town. It covers an area of 6.2 acres and is __ in shape. ",
-        optionA: " trapezoidal  ",
-        optionB: " Square ",
-        optionC: " Triangle ",
-        optionD: " Rectangle ",
+        question: "The tank is located in the heart of Kumbakonam town. It covers an area of 6.2 acres and is __ in shape.",
+        optionA: "trapezoidal",
+        optionB: "Square",
+        optionC: "Triangle",
+        optionD: "Rectangle",
         correctOption: "optionA "
     },
 
     {
-        question: " Aditya Chola constructed this temple during the 9th century",
-        optionA: " Nageswaran Kovil ",
-        optionB: " Ramaswamy temple ",
-        optionC: " Chakeapani temple ",
-        optionD: " None of the above ",
+        question: "Aditya Chola constructed this temple during the 9th century",
+        optionA: "Nageswaran Kovil",
+        optionB: "Ramaswamy temple",
+        optionC: "Chakeapani temple",
+        optionD: "None of the above",
         correctOption: "optionA"
     },
 
     {
         question: "The rajagopuram (the main gateway) has eleven tiers and has a height of ___ ",
-        optionA: " 173 ft  ",
-        optionB: " 174 ft ",
-        optionC: "         172 ft ",
-        optionD: "         171 ft ",
+        optionA: "173 ft",
+        optionB: "174 ft",
+        optionC: "172 ft",
+        optionD: "171 ft",
         correctOption: "optionA"
     },
 
     {
-        question : " The temple has beautiful architecture pieces and has been built by the Thanjavur Nayak kings and Govinda Dikshitar, the prime minister of the Nayaks, constructed the temple. ",
-        optionA: " Chakrapani temple ",
-        optionB: " Adi Kumbeswarar Temple  ",
-        optionC: " Sarangapani temple ",
-        optionD: " Ramaswamy temple ",
+        question : "The temple has beautiful architecture pieces and has been built by the Thanjavur Nayak kings and Govinda Dikshitar, the prime minister of the Nayaks, constructed the temple. ",
+        optionA: "Chakrapani temple",
+        optionB: "Adi Kumbeswarar Temple",
+        optionC: "Sarangapani temple",
+        optionD: "Ramaswamy temple",
         correctOption: "optionD"
     },
 
     {
-        question: `"__ is a Hindu temple dedicated to Vishnu located in Kumbakonam, Tamil Nadu, India. This temple is located 2 km, away towards North West from the Kumbakonam Railway Station. "`,
-        optionA: " Ramaswamy temple",
-        optionB: " Sarangapani temple ",
-        optionC: " Adi Kumbeswarar Temple ",
-        optionD: " Chakrapani temple ",
+        question: "__ is a Hindu temple dedicated to Vishnu located in Kumbakonam, Tamil Nadu, India. This temple is located 2 km, away towards North West from the Kumbakonam Railway Station. ",
+        optionA: "Ramaswamy temple",
+        optionB: "Sarangapani temple",
+        optionC: "Adi Kumbeswarar Temple",
+        optionD: "Chakrapani temple",
         correctOption: "optionD"
     },
 
