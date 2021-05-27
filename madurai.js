@@ -1,104 +1,97 @@
 const questions = [
     {
-        question 1: " ____ is a memorial museum for Gandhi located in the city of Madurai in Tamil Nadu, India.
-",
-        option A: " Mahatma memorial museum",
-        option B: "Gandhi memorial museum",
-        option C: "Sakthi memorial museum",
-        option D: "None of the above",
-        correctOption: " option B"
-    },
-
-    {
-        question 2: "Madurai is popularly called __ the city that never sleeps.",
-        option A: " Thoonga Nagaram ",
-        option B: " Kovil Nagaram",
-        option C: " Meenachi Nagaram ",
-        option D: " None of the above ",
-        correctOption: "option A"
-    },
-
-    {
-        question 3: " Distance between Madurai Airport and Madurai City is ___ kms.",
-        option A: " 10 ",
-        option B: " 20 ",
-        option C: " 15 ",
-        option D: " 12 ",
-        correctOption: "option D"
-    },
-
-    {
-        question 4: " The southern gopuram is the tallest of them all with a height of ___ feet. ",
-        option A: " 180 ",
-        option B: " 175 ",
-        option C: " 170 ",
-        option D: " 185 ",
-        correctOption: "option C"
-    },
-
-    {
-        question 5: " There are several halls in the temple complex including one known as the ___",
-        option A: " Hall of thousand pillars ",
-        option B: " Meenakshi Nayakkar Mandapam ",
-        option C: " None of the above",
-        option D: " Both A & B",
-        correctOption: "option D"
-    },
-
-    {
-        question 6: " The most important festival associated with the temple is the ___ ",
-        option A: " Meenakshi Thirukkalyanam ",
-        option B: " Meenakshi Festival",
-        option C: " Meenakshi Mandabam",
-        option D: " None of the above",
-        correctOption: " option A "
-    },
-
-    {
-        question 7: " The ancient city of Madurai, more than 2,500 years old, was built by the __ king ",
-        option A: " Chera ",
-        option B: " Pandiya ",
-        option C: " Chola ",
-        option D: " Pallava ",
+        question: " ____ is a memorial museum for Gandhi located in the city of Madurai in Tamil Nadu, India.",
+        optionA: " Mahatma memorial museum",
+        optionB: "Gandhi memorial museum",
+        optionC: "Sakthi memorial museum",
+        optionD: "None of the above",
         correctOption: "option B"
     },
 
     {
-        question 8: " Thirumalai Nayak Palace is a 17th-century palace erected in ___ AD by King Tirumala Nayaka ",
-        option A: " 1636 ",
-        option B: "1637 ",
-        option C: " 1638 ",
-        option D: " 1639 ",
+        question: "Madurai is popularly called __ the city that never sleeps.",
+        optionA: " Thoonga Nagaram ",
+        optionB: " Kovil Nagaram",
+        optionC: " Meenachi Nagaram ",
+        optionD: " None of the above ",
         correctOption: "option A"
     },
 
     {
-        question 9: " Thirumalai Nayakar mahal is famous for its ___ pillars. Pillar’s height is 82 feet and width is 19 feet",
-        option A: " All the below ",
-        option B: " Marble ",
-        option C: " Large ",
-        option D: " Giant ",
+        question: " Distance between Madurai Airport and Madurai City is ___ kms.",
+        optionA: " 10 ",
+        optionB: " 20 ",
+        optionC: " 15 ",
+        optionD: " 12 ",
         correctOption: "option D"
     },
 
     {
-        question 10: `" This museum was inaugurated by the former Prime Minister Jawaharlal Nehru on __"`,
-        option A: " 16 April 1959 ",
-        option B: " 15 April 1960 ",
-        option C: " 16 April 1960 ",
-        option D: " 15 April 1959 ",
-        correctOption: "optionD"
+        question: " The southern gopuram is the tallest of them all with a height of ___ feet. ",
+        optionA: " 180 ",
+        optionB: " 175 ",
+        optionC: " 170 ",
+        optionD: " 185 ",
+        correctOption: "option C"
     },
 
+    {
+        question: " There are several halls in the temple complex including one known as the ___",
+        optionA: " Hall of thousand pillars ",
+        optionB: " Meenakshi Nayakkar Mandapam ",
+        optionC: " None of the above",
+        optionD: " Both A & B",
+        correctOption: "option D"
+    },
 
+    {
+        question: " The most important festival associated with the temple is the ___ ",
+        optionA: " Meenakshi Thirukkalyanam ",
+        optionB: " Meenakshi Festival",
+        optionC: " Meenakshi Mandabam",
+        optionD: " None of the above",
+        correctOption: "optionA"
+    },
+
+    {
+        question: " The ancient city of Madurai, more than 2,500 years old, was built by the __ king ",
+        optionA: " Chera ",
+        optionB: " Pandiya ",
+        optionC: " Chola ",
+        optionD: " Pallava ",
+        correctOption: "option B"
+    },
+
+    {
+        question: " Thirumalai Nayak Palace is a 17th-century palace erected in ___ AD by King Tirumala Nayaka ",
+        optionA: " 1636 ",
+        optionB: "1637 ",
+        optionC: " 1638 ",
+        optionD: " 1639 ",
+        correctOption: "option A"
+    },
+
+    {
+        question: " Thirumalai Nayakar mahal is famous for its ___ pillars. Pillar’s height is 82 feet and width is 19 feet",
+        optionA: " All the below ",
+        optionB: " Marble ",
+        optionC: " Large ",
+        optionD: " Giant ",
+        correctOption: "option D"
+    },
+
+    {
+        question: " This museum was inaugurated by the former Prime Minister Jawaharlal Nehru on __",
+        optionA: " 16 April 1959 ",
+        optionB: " 15 April 1960 ",
+        optionC: " 16 April 1960 ",
+        optionD: " 15 April 1959 ",
+        correctOption: "optionD"
+    },
 ]
-
-
-let shuffledQuestions = [] //empty array to hold shuffled selected questions out of all available questions
+let shuffledQuestions = [] 
 
 function handleQuestions() { 
-    //function to shuffle and push 10 questions to shuffledQuestions array
-//app would be dealing with 10questions per session
     while (shuffledQuestions.length <= 9) {
         const random = questions[Math.floor(Math.random() * questions.length)]
         if (!shuffledQuestions.includes(random)) {
@@ -106,15 +99,10 @@ function handleQuestions() {
         }
     }
 }
-
-
-let questionNumber = 1 //holds the current question number
-let playerScore = 0  //holds the player score
-let wrongAttempt = 0 //amount of wrong answers picked by player
-let indexNumber = 0 //will be used in displaying next question
-
-// function for displaying next question in the array to dom
-//also handles displaying players and quiz information to dom
+let questionNumber = 1 
+let playerScore = 0  
+let wrongAttempt = 0 
+let indexNumber = 0 
 function NextQuestion(index) {
     handleQuestions()
     const currentQuestion = shuffledQuestions[index]
@@ -130,30 +118,24 @@ function NextQuestion(index) {
 
 
 function checkForAnswer() {
-    const currentQuestion = shuffledQuestions[indexNumber] //gets current Question 
-    const currentQuestionAnswer = currentQuestion.correctOption //gets current Question's answer
-    const options = document.getElementsByName("option"); //gets all elements in dom with name of 'option' (in this the radio inputs)
+    const currentQuestion = shuffledQuestions[indexNumber] 
+    const currentQuestionAnswer = currentQuestion.correctOption 
+    const options = document.getElementsByName("option"); 
     let correctOption = null
 
     options.forEach((option) => {
         if (option.value === currentQuestionAnswer) {
-            //get's correct's radio input with correct answer
             correctOption = option.labels[0].id
         }
     })
-
-    //checking to make sure a radio input has been checked or an option being chosen
     if (options[0].checked === false && options[1].checked === false && options[2].checked === false && options[3].checked == false) {
         document.getElementById('option-modal').style.display = "flex"
     }
-
-    //checking if checked radio button is same as answer
     options.forEach((option) => {
         if (option.checked === true && option.value === currentQuestionAnswer) {
             document.getElementById(correctOption).style.backgroundColor = "green"
-            playerScore++ //adding to player's score
-            indexNumber++ //adding 1 to index so has to display next question..
-            //set to delay question number till when next question loads
+            playerScore++ 
+            indexNumber++
             setTimeout(() => {
                 questionNumber++
             }, 1000)
@@ -165,7 +147,6 @@ function checkForAnswer() {
             document.getElementById(correctOption).style.backgroundColor = "green"
             wrongAttempt++ //adds 1 to wrong attempts 
             indexNumber++
-            //set to delay question number till when next question loads
             setTimeout(() => {
                 questionNumber++
             }, 1000)
@@ -173,26 +154,20 @@ function checkForAnswer() {
     })
 }
 
-
-
-//called when the next button is called
 function handleNextQuestion() {
-    checkForAnswer() //check if player picked right or wrong option
+    checkForAnswer() 
     unCheckRadioButtons()
-    //delays next question displaying for a second just for some effects so questions don't rush in on player
     setTimeout(() => {
         if (indexNumber <= 9) {
-//displays next question as long as index number isn't greater than 9, remember index number starts from 0, so index 9 is question 10
             NextQuestion(indexNumber)
         }
         else {
-            handleEndGame()//ends game if index number greater than 9 meaning we're already at the 10th question
+            handleEndGame()
         }
         resetOptionBackground()
     }, 1000);
 }
 
-//sets options background back to null after display the right/wrong colors
 function resetOptionBackground() {
     const options = document.getElementsByName("option");
     options.forEach((option) => {
@@ -200,7 +175,6 @@ function resetOptionBackground() {
     })
 }
 
-// unchecking all radio buttons for next question(can be done with map or foreach loop also)
 function unCheckRadioButtons() {
     const options = document.getElementsByName("option");
     for (let i = 0; i < options.length; i++) {
@@ -208,12 +182,10 @@ function unCheckRadioButtons() {
     }
 }
 
-// function for when all questions being answered
 function handleEndGame() {
     let remark = null
     let remarkColor = null
 
-    // condition check for player remark and remark color
     if (playerScore <= 3) {
         remark = "Bad Grades, Keep Practicing."
         remarkColor = "red"
@@ -228,7 +200,6 @@ function handleEndGame() {
     }
     const playerGrade = (playerScore / 10) * 100
 
-    //data to display to score board
     document.getElementById('remarks').innerHTML = remark
     document.getElementById('remarks').style.color = remarkColor
     document.getElementById('grade-percentage').innerHTML = playerGrade
@@ -238,7 +209,6 @@ function handleEndGame() {
 
 }
 
-//closes score modal, resets game and reshuffles questions
 function closeScoreModal() {
     questionNumber = 1
     playerScore = 0
@@ -249,7 +219,6 @@ function closeScoreModal() {
     document.getElementById('score-modal').style.display = "none"
 }
 
-//function to close warning modal
 function closeOptionModal() {
     document.getElementById('option-modal').style.display = "none"
 }
