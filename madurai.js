@@ -5,7 +5,7 @@ const questions = [
         option B: "Gandhi memorial museum",
         option C: "Sakthi memorial museum",
         option D: "None of the above",
-        correctOption: " option B"
+        correctOption: "option B"
     },
 
     {
