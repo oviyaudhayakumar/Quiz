@@ -1,11 +1,11 @@
 const questions = [
     {
         question:" This temple is situated in Coromandel between two rivers __ and __. It is one of the five element shrines or Pancha Bootha sthalams and is renowned for the worship of lord Siva as representing the element of water (appulinga).",
-        optionA: "  Cauvery  coleroon",
-        optionB: "  Cauvery  Vaigai",
-        optionC: "  Vaigai  Gangai",
+        optionA: "  Cauvery , coleroon",
+        optionB: "  Cauvery , Vaigai",
+        optionC: "  Vaigai , Gangai",
         optionD: " None of the above ",
-        correctOption: " optionA "
+        correctOption: "optionA"
     },
 
     {
@@ -50,7 +50,7 @@ const questions = [
         optionB: " 83 metres ",
         optionC: " 81 metres ",
         optionD: " 80 metres ",
-        correctOption: " optionB "
+        correctOption: "optionB"
     },
 
     {
