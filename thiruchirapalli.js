@@ -1,6 +1,6 @@
 const questions = [
     {
-        question: " This temple is situated in Coromandel between two rivers __ and __. It is one of the five element shrines or Pancha Bootha sthalams and is renowned for the worship of lord Siva as representing the element of water (appulinga). ",
+        question:" This temple is situated in Coromandel between two rivers __ and __. It is one of the five element shrines or Pancha Bootha sthalams and is renowned for the worship of lord Siva as representing the element of water (appulinga).",
         optionA: "  Cauvery  coleroon",
         optionB: "  Cauvery  Vaigai",
         optionC: "  Vaigai  Gangai",
