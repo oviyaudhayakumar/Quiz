@@ -10,82 +10,82 @@ const questions = [
 
     {
         question: "Madurai is popularly called __ the city that never sleeps.",
-        optionA: " Thoonga Nagaram ",
-        optionB: " Kovil Nagaram",
-        optionC: " Meenachi Nagaram ",
-        optionD: " None of the above ",
+        optionA: "Thoonga Nagaram",
+        optionB: "Kovil Nagaram",
+        optionC: "Meenachi Nagaram",
+        optionD: "None of the above",
         correctOption: "optionA"
     },
 
     {
-        question: " Distance between Madurai Airport and Madurai City is ___ kms.",
-        optionA: " 10 ",
-        optionB: " 20 ",
-        optionC: " 15 ",
-        optionD: " 12 ",
-        correctOption: "option D"
+        question: "Distance between Madurai Airport and Madurai City is ___ kms.",
+        optionA: "10",
+        optionB: "20",
+        optionC: "15",
+        optionD: "12",
+        correctOption: "optionD"
     },
 
     {
-        question: " The southern gopuram is the tallest of them all with a height of ___ feet. ",
-        optionA: " 180 ",
-        optionB: " 175 ",
-        optionC: " 170 ",
-        optionD: " 185 ",
+        question: "The southern gopuram is the tallest of them all with a height of ___ feet.",
+        optionA: "180",
+        optionB: "175",
+        optionC: "170",
+        optionD: "185",
         correctOption: "optionC"
     },
 
     {
-        question: " There are several halls in the temple complex including one known as the ___",
-        optionA: " Hall of thousand pillars ",
-        optionB: " Meenakshi Nayakkar Mandapam ",
-        optionC: " None of the above",
-        optionD: " Both A & B",
+        question: "There are several halls in the temple complex including one known as the ___",
+        optionA: "Hall of thousand pillars",
+        optionB: "Meenakshi Nayakkar Mandapam",
+        optionC: "None of the above",
+        optionD: "Both A & B",
         correctOption: "optionD"
     },
 
     {
-        question: " The most important festival associated with the temple is the ___ ",
-        optionA: " Meenakshi Thirukkalyanam ",
-        optionB: " Meenakshi Festival",
-        optionC: " Meenakshi Mandabam",
-        optionD: " None of the above",
+        question: "The most important festival associated with the temple is the ___",
+        optionA: "Meenakshi Thirukkalyanam",
+        optionB: "Meenakshi Festival",
+        optionC: "Meenakshi Mandabam",
+        optionD: "None of the above",
         correctOption: "optionA"
     },
 
     {
-        question: " The ancient city of Madurai, more than 2,500 years old, was built by the __ king ",
-        optionA: " Chera ",
-        optionB: " Pandiya ",
-        optionC: " Chola ",
-        optionD: " Pallava ",
+        question: "The ancient city of Madurai, more than 2,500 years old, was built by the __ king.",
+        optionA: "Chera ",
+        optionB: "Pandiya ",
+        optionC: "Chola ",
+        optionD: "Pallava ",
         correctOption: "optionB"
     },
 
     {
-        question: " Thirumalai Nayak Palace is a 17th-century palace erected in ___ AD by King Tirumala Nayaka ",
-        optionA: " 1636 ",
-        optionB: "1637 ",
-        optionC: " 1638 ",
-        optionD: " 1639 ",
+        question: "Thirumalai Nayak Palace is a 17th-century palace erected in ___ AD by King Tirumala Nayaka.",
+        optionA: "1636",
+        optionB: "1637",
+        optionC: "1638",
+        optionD: "1639",
         correctOption: "optionA"
     },
 
     {
-        question: " Thirumalai Nayakar mahal is famous for its ___ pillars. Pillar’s height is 82 feet and width is 19 feet",
-        optionA: " All the below ",
-        optionB: " Marble ",
-        optionC: " Large ",
-        optionD: " Giant ",
+        question: "Thirumalai Nayakar mahal is famous for its ___ pillars. Pillar’s height is 82 feet and width is 19 feet",
+        optionA: "All the below",
+        optionB: "Marble",
+        optionC: "Large",
+        optionD: "Giant",
         correctOption: "optionD"
     },
 
     {
-        question: " This museum was inaugurated by the former Prime Minister Jawaharlal Nehru on __",
-        optionA: " 16 April 1959 ",
-        optionB: " 15 April 1960 ",
-        optionC: " 16 April 1960 ",
-        optionD: " 15 April 1959 ",
+        question: "This museum was inaugurated by the former Prime Minister Jawaharlal Nehru on __",
+        optionA: "16 April 1959",
+        optionB: "15 April 1960",
+        optionC: "16 April 1960",
+        optionD: "15 April 1959",
         correctOption: "optionD"
     },
 ]
