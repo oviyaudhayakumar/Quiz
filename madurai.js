@@ -5,7 +5,7 @@ const questions = [
         optionB: "Gandhi memorial museum",
         optionC: "Sakthi memorial museum",
         optionD: "None of the above",
-        correctOption: "option B"
+        correctOption: "optionB"
     },
 
     {
@@ -14,7 +14,7 @@ const questions = [
         optionB: " Kovil Nagaram",
         optionC: " Meenachi Nagaram ",
         optionD: " None of the above ",
-        correctOption: "option A"
+        correctOption: "optionA"
     },
 
     {
@@ -32,7 +32,7 @@ const questions = [
         optionB: " 175 ",
         optionC: " 170 ",
         optionD: " 185 ",
-        correctOption: "option C"
+        correctOption: "optionC"
     },
 
     {
@@ -41,7 +41,7 @@ const questions = [
         optionB: " Meenakshi Nayakkar Mandapam ",
         optionC: " None of the above",
         optionD: " Both A & B",
-        correctOption: "option D"
+        correctOption: "optionD"
     },
 
     {
@@ -59,7 +59,7 @@ const questions = [
         optionB: " Pandiya ",
         optionC: " Chola ",
         optionD: " Pallava ",
-        correctOption: "option B"
+        correctOption: "optionB"
     },
 
     {
@@ -68,7 +68,7 @@ const questions = [
         optionB: "1637 ",
         optionC: " 1638 ",
         optionD: " 1639 ",
-        correctOption: "option A"
+        correctOption: "optionA"
     },
 
     {
@@ -77,7 +77,7 @@ const questions = [
         optionB: " Marble ",
         optionC: " Large ",
         optionD: " Giant ",
-        correctOption: "option D"
+        correctOption: "optionD"
     },
 
     {
